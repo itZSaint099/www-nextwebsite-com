@@ -1,0 +1,9 @@
+**/coverage/**
+**/node_modules/**
+**/tests/*
+**/dist/*
+**/public/*
+**/*.d.ts
+.next
+yarn.lock
+package-lock.json
